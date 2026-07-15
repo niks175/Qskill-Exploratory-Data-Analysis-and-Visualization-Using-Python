@@ -56,6 +56,3 @@ Running the script analyzes `data.csv` and generates visualizations/summary stat
 
 Suggestions and improvements are welcome — feel free to open an issue or submit a pull request.
 
-## 📄 License
-
-Specify your license here (e.g., MIT).
